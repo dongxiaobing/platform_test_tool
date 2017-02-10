@@ -15,3 +15,6 @@
 
 ＃平台测试工具－diff poi 详细异同展示
 ![](https://github.com/dongxiaobing/platform_test_tool/blob/master/5.png)
+
+＃平台测试工具－ci 结果展示
+![](https://github.com/dongxiaobing/platform_test_tool/blob/master/6.png)
