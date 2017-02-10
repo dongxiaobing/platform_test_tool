@@ -8,3 +8,10 @@
 
 ＃平台测试工具－diff效果展示
 ![](https://github.com/dongxiaobing/platform_test_tool/blob/master/3.png)
+
+＃平台测试工具－diff poi 异同展示
+![](https://github.com/dongxiaobing/platform_test_tool/blob/master/4.png)
+
+
+＃平台测试工具－diff poi 详细异同展示
+![](https://github.com/dongxiaobing/platform_test_tool/blob/master/5.png)
